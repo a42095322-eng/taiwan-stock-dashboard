@@ -141,7 +141,7 @@ function renderError(error) {
 
 async function init() {
   try {
-    const response = await fetch('./dashboard.json', { cache: 'no-store' });
+    const response = await fetch('./data/dashboard.json', { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const dashboard = normalizeDashboard(await response.json());
