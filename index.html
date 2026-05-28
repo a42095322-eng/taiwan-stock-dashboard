@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f8fb">
+    <title>台股每日分析看板</title>
+    <link rel="stylesheet" href="./src/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Taiwan Stock Dashboard</p>
+          <h1>台股每日分析看板</h1>
+        </div>
+        <div class="topbar__meta" id="last-updated">讀取中</div>
+      </header>
+
+      <section class="market-panel" id="market" aria-live="polite">
+        <div class="skeleton">正在讀取市場資料...</div>
+      </section>
+
+      <section class="section">
+        <div class="section__header">
+          <h2>持股追蹤</h2>
+          <p>0056、0050、00991A、00403A、2330</p>
+        </div>
+        <div class="holdings-grid" id="holdings"></div>
+      </section>
+
+      <section class="section">
+        <div class="section__header">
+          <h2>推薦觀察買入標的</h2>
+          <p>僅列候選觀察與條件式買入，不代表保證獲利。</p>
+        </div>
+        <div class="watchlist-grid" id="watchlist"></div>
+      </section>
+
+      <section class="section">
+        <div class="section__header">
+          <h2>分析更新</h2>
+          <p>每日 08:30 完整分析，09:00 後每兩小時短版更新。</p>
+        </div>
+        <div class="timeline" id="timeline"></div>
+      </section>
+
+      <section class="risk-panel" id="risk"></section>
+    </main>
+
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
