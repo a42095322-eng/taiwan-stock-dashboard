@@ -7,73 +7,73 @@
     "change": 1126.01,
     "changePercent": 2.5,
     "volume": "成交值 12661 億元",
-    "updatedAt": "2026-07-01T13:19:53+08:00"
+    "updatedAt": "2026-07-01T18:39:52+08:00"
   },
   "holdings": [
     {
       "ticker": "0056",
       "name": "元大高股息",
-      "price": null,
-      "change": null,
-      "changePercent": null,
-      "volume": "觀察中",
+      "price": 53.25,
+      "change": 1.45,
+      "changePercent": 2.8,
+      "volume": "偏高",
       "note": "高股息 ETF 偏防禦配置，留意除息行情與成交量變化。",
-      "support": "",
-      "resistance": "",
+      "support": "52.45",
+      "resistance": "54.58",
       "risk": "若金融與傳產權值轉弱，短線可能壓抑表現。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     },
     {
       "ticker": "0050",
       "name": "元大台灣50",
-      "price": null,
-      "change": null,
-      "changePercent": null,
-      "volume": "觀察中",
+      "price": 107.8,
+      "change": 3.35,
+      "changePercent": 3.21,
+      "volume": "偏高",
       "note": "大型權值股連動明顯，適合作為大盤方向核心觀察。",
-      "support": "",
-      "resistance": "",
+      "support": "106.18",
+      "resistance": "110.49",
       "risk": "電子權值股回檔時，0050 會同步承壓。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     },
     {
       "ticker": "00991A",
-      "name": "主動式台股 ETF",
-      "price": null,
-      "change": null,
-      "changePercent": null,
-      "volume": "觀察中",
+      "name": "主動復華未來50",
+      "price": 20.66,
+      "change": 1.01,
+      "changePercent": 5.14,
+      "volume": "偏高",
       "note": "主動式 ETF 需觀察持股調整、淨值追蹤與成交量。",
-      "support": "",
-      "resistance": "",
+      "support": "20.35",
+      "resistance": "21.18",
       "risk": "成立時間較短，歷史績效與流動性仍需追蹤。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     },
     {
       "ticker": "00403A",
-      "name": "主動式台股 ETF",
-      "price": null,
-      "change": null,
-      "changePercent": null,
-      "volume": "觀察中",
+      "name": "主動統一升級50",
+      "price": 11.02,
+      "change": 0.4,
+      "changePercent": 3.77,
+      "volume": "偏高",
       "note": "短線以淨值穩定度與成交量是否放大為主要觀察。",
-      "support": "",
-      "resistance": "",
+      "support": "10.85",
+      "resistance": "11.3",
       "risk": "若流動性不足，買賣價差可能放大。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     },
     {
       "ticker": "2330",
       "name": "台積電",
-      "price": null,
-      "change": null,
-      "changePercent": null,
-      "volume": "觀察中",
+      "price": 2410,
+      "change": 40,
+      "changePercent": 1.69,
+      "volume": "偏高",
       "note": "AI 需求、外資動向與美國科技股表現仍是主要驅動。",
-      "support": "",
-      "resistance": "",
+      "support": "2373.85",
+      "resistance": "2470.25",
       "risk": "若美國科技股回落或匯率急升，可能帶來獲利了結壓力。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     }
   ],
   "watchlist": [
@@ -81,34 +81,41 @@
       "ticker": "2308",
       "name": "台達電",
       "reason": "電源、AI 伺服器與能源管理題材具市場關注度。",
-      "trigger": "等待回測支撐止跌，或突破整理區並放量。",
-      "support": "短期均線區",
-      "resistance": "近期高點區",
+      "trigger": "放量站穩當日高點或回測支撐不破再觀察。",
+      "support": "1911",
+      "resistance": "2018.25",
       "risk": "若跌破支撐或量縮轉弱，暫不追價並降低部位。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     },
     {
       "ticker": "2317",
       "name": "鴻海",
       "reason": "AI 伺服器與電動車題材延續，適合觀察量價轉強。",
-      "trigger": "等待回測支撐止跌，或突破整理區並放量。",
-      "support": "短期均線區",
-      "resistance": "近期高點區",
+      "trigger": "放量站穩當日高點或回測支撐不破再觀察。",
+      "support": "245.98",
+      "resistance": "259.78",
       "risk": "若跌破支撐或量縮轉弱，暫不追價並降低部位。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     },
     {
       "ticker": "2881",
       "name": "富邦金",
       "reason": "金融股可作為科技股之外的分散配置觀察。",
       "trigger": "等待回測支撐止跌，或突破整理區並放量。",
-      "support": "短期均線區",
-      "resistance": "近期高點區",
+      "support": "126.91",
+      "resistance": "134.03",
       "risk": "若跌破支撐或量縮轉弱，暫不追價並降低部位。",
-      "updatedAt": "2026-07-01T13:19:53+08:00"
+      "updatedAt": "2026-07-01T18:39:52+08:00"
     }
   ],
   "timeline": [
+    {
+      "time": "2026-07-01T18:39:52+08:00",
+      "type": "短版更新",
+      "title": "盤中短版更新",
+      "summary": "台股大盤目前狀態：盤後資料更新，大盤偏多，仍需留意追價風險與成交量是否同步放大。",
+      "details": "盤中更新著重價格、量能與買入條件是否改變；若資料延遲，以上次可取得資訊為準。"
+    },
     {
       "time": "2026-07-01T13:19:53+08:00",
       "type": "短版更新",
@@ -184,13 +191,6 @@
       "type": "短版更新",
       "title": "盤中短版更新",
       "summary": "台股大盤目前狀態：盤後資料更新，大盤區間整理，適合用條件式買入與分批方式管理部位。",
-      "details": "盤中更新著重價格、量能與買入條件是否改變；若資料延遲，以上次可取得資訊為準。"
-    },
-    {
-      "time": "2026-06-25T18:14:32+08:00",
-      "type": "短版更新",
-      "title": "盤中短版更新",
-      "summary": "台股大盤目前狀態：盤後資料更新，大盤偏弱，先降低追價，觀察權值股是否止跌。",
       "details": "盤中更新著重價格、量能與買入條件是否改變；若資料延遲，以上次可取得資訊為準。"
     }
   ],
